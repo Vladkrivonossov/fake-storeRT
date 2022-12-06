@@ -1,4 +1,4 @@
-import React,{ useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { IProduct }  from '../models';
 import axios, { AxiosError } from 'axios'
 
